@@ -3,7 +3,7 @@
 Interactive Tableau dashboard analyzing U.S. **health trends**, **behavioral factors**, **chronic diseases**, and **disability prevalence**. Built from three Excel files merged and cleaned, then modeled and visualized in Tableau.
 
 ## 🔗 Live Demo
-- **Tableau Public**: <YOUR_PUBLIC_LINK_HERE>
+- **Tableau Public**: 
 
 ## 📸 Screenshots
 <img src="screenshots/home.png" width="800" alt="Home hub with navigation" />
